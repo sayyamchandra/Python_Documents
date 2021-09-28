@@ -1,0 +1,15 @@
+Main Program file is main.py
+
+It will take input from you.
+
+So,
+  - Enter the address or file location of your file (you want to convert into speech).
+  - file must be in .txt format.
+  - Enter the output file name.
+  - Done.
+
+After completing the above steps, your text is converted into the speech of file name you entered with .mp3 extension.
+
+If you find any bug , please report at technicalbro-108@gmail.com
+
+Thanks You
